@@ -6,5 +6,7 @@ public class user {
 
     private String adress;
 
+    private int age;
+
 
 }
