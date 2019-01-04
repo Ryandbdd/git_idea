@@ -5,6 +5,7 @@ public class user {
     private String name;
 
     private String adress;
+    private String master;
 
 
 }
