@@ -5,6 +5,10 @@ public class user {
     private String name;
 
     private String adress;
+    private String master;
+
+
+    private String woke;
     private String ja;
 
 
