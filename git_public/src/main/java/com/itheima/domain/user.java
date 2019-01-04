@@ -8,6 +8,7 @@ public class user {
     private String master;
 
 
+    private String woke;
 
 
 }
